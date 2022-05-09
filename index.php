@@ -9,3 +9,5 @@
 	}
 
 	echo $faker->inn10();
+
+	echo "Hello, World!";
