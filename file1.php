@@ -1,0 +1,2 @@
+<?php
+	$a = 'New var';
